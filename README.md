@@ -13,4 +13,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![Codewars current badge](https://www.codewars.com/users/blisssss/badges/large)
+![Codewars current badge](https://www.codewars.com/users/blisse1/badges/large)
