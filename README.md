@@ -1,6 +1,6 @@
+<img src="https://www.codewars.com/users/blisse1/badges/large">
 <div align="center">
 Hi! I'm Bliss, Fullstack developer from Bogotá, Colombia.
-  <img src="https://www.codewars.com/users/blisse1/badges/large">
   <br>
   <br>
 <p style="display: inline_block;">
