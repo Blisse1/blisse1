@@ -8,7 +8,7 @@ I enjoy building user-centered projects that address real needs and I love doing
   <li><b>Frameworks & Libraries:</b> React, Node.js, Express.js, Flask, Vitest, Faker.js</li>
   <li><b>Tools & Platforms</b>: Git, Github, Neovim</li>
 </ul>
-<h2>Key Projects <i>(working on enhancing each one of them...)</i></h2>
+<h2>Key Projects <i>(working on enhance each one of them...)</i></h2>
 <ul>
   <li>Reservoir Python Project</li>
   <li>React CRUD App & Aluraflix</li>
