@@ -6,7 +6,7 @@ I enjoy building user-centered projects that address real needs and I love doing
 <ul>
   <li><b>Languages:</b> JavaScript, TypeScript, Python</li>
   <li><b>Frameworks & Libraries:</b> React, Node.js, Express.js, Flask, Vitest, Faker.js, JSDOC</li>
-  <li><b>Tools & Platforms</b>: Git, Github, Neovim</li>
+  <li><b>Tools & Platforms</b>: Git, Github, Vim, Neovim</li>
 </ul>
 <h2>Key Projects <i>(reworking each one of them...)</i></h2>
 <ul>
