@@ -4,7 +4,7 @@ I enjoy building user-centered projects that address real needs and I love doing
 
 <h2>Technical Skills</h2>
 <ul>
-  <li><b>Languages:</b> JavaScript, TypeScript, Python</li>
+  <li><b>Languages:</b> JavaScript, TypeScript, Python, Java</li>
   <li><b>Frameworks & Libraries:</b> React, Node.js, Express.js, Flask, Vitest, Faker.js, JSDOC</li>
   <li><b>Tools & Platforms</b>: Git, Github, Vim, Neovim</li>
 </ul>
